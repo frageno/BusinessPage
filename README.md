@@ -6,7 +6,7 @@ The page was created by me from scratch.
 ## Table of content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup Locally](#setup)
+* [Setup Locally](#setup-locally)
 
 
 ## General info

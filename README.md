@@ -28,5 +28,7 @@ This project is created with :
 You can copy this repository's from here, at your computer command line:
 
 git clone https://github.com/frageno/BusinessPage.git
+
 cd BusinessPage
+
 npm start or run with your localserver 

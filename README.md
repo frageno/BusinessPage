@@ -12,6 +12,7 @@ The page was created by me from scratch.
 ## General info
 
 Project goal is improve my skills in front-end.
+First I created this project in photoshop, then i try my skills and code this in few technologies.
 
 
 ## Technologies
@@ -25,6 +26,10 @@ This project is created with :
 * Bootstrap 4
 
 ## Setup Locally
+<b>Requirements:</b>
+
+* Visual Studio Code
+
 You can copy this repository's from here, at your computer follow this three steps:
 
 * git clone https://github.com/frageno/BusinessPage.git

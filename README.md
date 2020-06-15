@@ -25,10 +25,10 @@ This project is created with :
 * Bootstrap 4
 
 ## Setup Locally
-You can copy this repository's from here, at your computer command line:
+You can copy this repository's from here, at your computer follow this three steps:
 
-git clone https://github.com/frageno/BusinessPage.git
+* git clone https://github.com/frageno/BusinessPage.git
 
-cd BusinessPage
+* cd BusinessPage
 
-npm start or run with your localserver 
+* npm start or run with your localserver 

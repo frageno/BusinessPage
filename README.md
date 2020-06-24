@@ -43,7 +43,7 @@ You can copy this repository's from here, at your computer follow this three ste
 
 ## Illustrations
 
-1. Full-view
+
 ![fullview](https://github.com/frageno/BusinessPage/blob/master/business-page-desktop.png)
-2. Gifs
+
 ![gifs](https://github.com/frageno/BusinessPage/blob/master/gifs/form-validator.gif)

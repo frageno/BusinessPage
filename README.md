@@ -39,3 +39,8 @@ You can copy this repository's from here, at your computer follow this three ste
 * cd BusinessPage
 
 * npm start or run with your localserver 
+
+## Illustrations
+
+1. Full-view
+![fullview](https://github.com/frageno/BusinessPage/blob/master/business-page-desktop.png)

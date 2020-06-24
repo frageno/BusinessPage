@@ -1,0 +1,21 @@
+.t-meet{
+
+
+    &__user{
+        position: absolute;
+        top:25%;
+        left: 30%;
+        @include medium-up{
+            top: 15%;
+            left: 20%;
+        }
+        @include large-up{
+            left: 25%;
+        }
+
+
+    }
+    &__image{
+        border:2px solid $purple;
+    }
+}

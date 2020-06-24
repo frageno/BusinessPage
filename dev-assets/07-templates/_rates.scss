@@ -1,0 +1,14 @@
+.t-rates {
+    background: linear-gradient(90deg, rgba(42,170,255,1) 11%, rgba(23,77,143,1) 89%);
+    height: 500px;
+    max-width: 75%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 35px $gray-dark;
+    @include medium-up{
+        height: 450px;
+    }
+
+}
+.progress{
+    height: 30px!important;
+}

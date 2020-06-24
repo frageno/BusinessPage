@@ -1,0 +1,34 @@
+.c-hamburger{
+
+
+
+    &__line1, &__line2, &__line3{
+        height: 3px;
+        width: 23px;
+        margin: 5px;
+        transition: all .4s;
+
+
+    }
+
+
+    &__change{
+        .c-hamburger__line1{
+        transform: rotate(-45deg) translate(-5px,6px);
+        }
+    }
+    &__change{
+        .c-hamburger__line3{
+            transform: rotate(45deg) translate(-5px,-6px);
+            }
+    }
+    &__change{
+        .c-hamburger__line2{
+        opacity:0;
+    }}
+
+
+
+}
+
+

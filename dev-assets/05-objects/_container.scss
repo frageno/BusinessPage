@@ -1,0 +1,14 @@
+.o-container {
+    margin: 0 auto 0 auto;
+    padding-left: $grid-base *1.5 ;
+    padding-right: $grid-base *1.5 ;
+    width: 100%;
+
+    @include medium-up{
+        max-width: 740px;
+    }
+
+    @include large-up{
+        max-width: 1140px;
+    }
+}

@@ -1,0 +1,31 @@
+.c-heading {
+    color:$white;
+
+
+    &--level1 {
+        font-size: $font-size-4;
+    }
+    &--level2 {
+        font-size: $font-size-5;
+    }
+    &--level3 {
+        font-size: $font-size-6;
+    }
+    &--level4 {
+        font-size: $font-size-3;
+    }
+    &--level5 {
+        font-size: 36px;
+    }
+    &--level6 {
+        font-size: 16px;
+    }
+    &--upper{
+        text-transform: uppercase;
+    }
+    &--black{
+        color:$black;
+    }
+
+
+}

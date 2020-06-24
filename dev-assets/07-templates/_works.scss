@@ -1,0 +1,29 @@
+.t-works{
+    display: block!important;
+    margin-top: 30px;
+    text-align: center;
+    @include medium-up{
+        display: inline-block!important;
+    }
+    &:hover{
+        background: linear-gradient(4deg, rgba(42,170,255,1) 11%, rgba(23,77,143,1) 89%);
+        color:$white;
+        text-decoration: none;
+        transform: none!important;
+        padding: $grid-base ;
+        border-radius: 10px;
+        cursor: pointer;
+
+
+
+    }
+    &__active-item{
+        background: linear-gradient(4deg, rgba(42,170,255,1) 11%, rgba(23,77,143,1) 89%);
+        padding: $grid-base ;
+        border-radius: 10px;
+        color:$white!important;
+
+    }
+
+
+}

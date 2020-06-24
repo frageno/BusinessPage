@@ -1,0 +1,23 @@
+.t-creativity{
+    &__arrow{
+        margin-left: $grid-base * 26;
+        display: inline-block;
+        color:$black;
+
+    }
+
+    &__change{
+        .t-creativity__arrow{
+            transform: rotate(90deg);
+        }
+    }
+
+}
+
+.card {
+    border: none!important;
+
+}
+a{
+    text-decoration: none!important;
+}

@@ -1,0 +1,48 @@
+.t-banner{
+    @include medium-up{
+    background: url(../../images/header-ship.png) center center /cover;
+    width: 401px;
+    height: 401px;
+    }
+
+
+    &__small{
+        visibility: hidden;
+        position: absolute;
+        font-size: 14px;
+
+
+    }
+}
+
+// SET FORM-CONTROL FROM BOOTSTRAP LOCALLY!
+.form-control{
+    border-radius: 15px!important;
+
+}
+
+.error {
+    .form-control {
+
+    border: 1px solid #e74c3c;
+    }
+
+    .t-banner__small{
+        visibility: visible;
+        font-weight: bold;
+        color:#e74c3c;
+        position: relative;
+        display: flex;
+        justify-content: flex-end;
+
+        padding: 10px 10px 0 0;
+
+
+    }
+}
+.success{
+    .form-control {
+
+        border: 1px solid #2ecc71;
+        }
+}

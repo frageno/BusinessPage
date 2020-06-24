@@ -1,0 +1,29 @@
+.t-pricing{
+    background: url(../../images/pricing-image.png) center center /cover;
+    height: 502px;
+    width: 370px;
+
+
+
+    &__heading{
+        margin-top: $grid-base * 7;
+    }
+
+    &__card{
+        background: url(../../images/pricing-image.png) center center /cover;
+        height: $grid-base * 50;
+        width: $grid-base * 37;
+        @include medium-up{
+        width: $grid-base * 30;
+
+        }
+        @include large-up{
+            width: $grid-base * 37;
+
+            }
+    }
+    &__card-body{
+        margin-top: $grid-base * 8;
+    }
+
+}

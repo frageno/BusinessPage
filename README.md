@@ -1,7 +1,7 @@
 ﻿# BusinessPage
 
 A simple page for business company which include some modern and nicely looking effects.
-The page was created by me from scratch.
+The page was created by me from scratch.All images which I used to come from www.freepik.com!
 
 ## Table of content
 * [General info](#general-info)

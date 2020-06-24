@@ -7,6 +7,7 @@ The page was created by me from scratch.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup Locally](#setup-locally)
+* [Illustrations](#illustrations)
 
 
 ## General info
